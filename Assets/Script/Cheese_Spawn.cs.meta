@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c09a10fd0f903b34cb7e04b04cab85e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Cheese: {fileID: 824025892457780688, guid: d1c44bc71734da14baff223b4f7e609e, type: 3}
+  - RedCheese: {fileID: 5809681365268187084, guid: ace4622407ebf5e459744b8e60e139d8,
+      type: 3}
+  - Cylinder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
